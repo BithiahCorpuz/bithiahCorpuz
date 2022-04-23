@@ -1,9 +1,11 @@
 ### Hi, I'm Bithiah T. Corpuz 👋
 => Main Stack -- "Xamarin Form Developer 📱 || .NET " <=
-/n
+
 => DICT at Polytechnic Univeristy of the Philippines'
 Institure of Technology <=🎓 
 
+-🔭 I’m currently working on CoffeApp
+-🌱 I’m currently learning Xamarin.
 <!--
 **BithiahCorpuz/bithiahCorpuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
