@@ -1,6 +1,7 @@
 ### Hi, I'm Bithiah T. Corpuz 👋
 => Main Stack -- "Xamarin Form Developer 📱 || .NET " <=
-=> DICT at Polytechnic Univeristy of the Philippines' Institure of Technology <=🎓 
+=> DICT at Polytechnic Univeristy of the Philippines'
+Institure of Technology <=🎓 
 
 <!--
 **BithiahCorpuz/bithiahCorpuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
